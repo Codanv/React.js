@@ -36,3 +36,8 @@ Tue 20 Aug 2019 [https://youtu.be/gP5PHdeLsyE]
     - componentWillUnmount()
   
   Run `npm install` from the app(component-lifecycle) directory
+
+## Part 4 
+Tue 20 Aug 2019 [https://youtu.be/AyJid2JLvoo]
+- React Event
+- React Form
