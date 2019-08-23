@@ -1,0 +1,33 @@
+$bgColor: black;
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  margin: 100px auto;
+  width: 200px;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+.container {
+  
+  padding-bottom: 4px;
+  text-align: center;
+  background-color: $bgColor;
+  border-radius: 5px;
+  box-shadow: 8px 8px 10px $bgColor;
+}
+
+#display {
+  height: 50px;
+  color: white;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-size: 4em;
+}

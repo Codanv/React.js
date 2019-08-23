@@ -41,3 +41,9 @@ Tue 20 Aug 2019 [https://youtu.be/gP5PHdeLsyE]
 Tue 20 Aug 2019 [https://youtu.be/AyJid2JLvoo]
 - React Event
 - React Form
+
+## Part 5
+Fri 23 Aug 2019 [https://youtu.be/SUx7HaDnhBE]
+
+- Counter App
+- React Sass ~ To style react app
