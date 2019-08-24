@@ -47,3 +47,10 @@ Fri 23 Aug 2019 [https://youtu.be/SUx7HaDnhBE]
 
 - Counter App
 - React Sass ~ To style react app
+
+## Part 6
+Fri 24 Aug 2019 [https://youtu.be/roHSPg9hV1k]
+
+- Express.js with React.js
+- proxy json property [client side]
+- concurrently module
