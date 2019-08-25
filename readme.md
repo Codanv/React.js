@@ -71,9 +71,27 @@ Git repo directory: `express-react-app`
 - proxy json property [client side]
 - concurrently module
 
-#### To run express-react app (At CMD/Terminal)
+#### To run `express-react-app` (At CMD/Terminal)
 
-- from  back-end/ directory run `npm install`
-- from  front-end/ directory run `npm install`
-- from  express-react-app (root) directory run `npm install`
-- lastly, from express-react-app run `npm start`
+- from  `back-end/` directory run `npm install`
+- from  `front-end/` directory run `npm install`
+- from  `express-react-app` (root) directory run `npm install`
+- lastly, from `express-react-app` run `npm start`
+
+# Part 7
+Sun 25 Aug 2019 
+
+[ part1- https://youtu.be/8ZFscf4ZiN0]
+
+[ part2- https://youtu.be/aqTB4ORrvOA]
+
+Git repo directory: `mern-crud-app`
+
+- MERN(MongoDB, Express, React & Nodejs) CRUD Application
+
+#### To run `mern-crud-app` app (At CMD/Terminal)
+
+- from  `back-end/` directory run `npm install`
+- from  `client/` directory run `npm install`
+- from  `mern-crud-app` (root) directory run `npm install`
+- lastly, from `mern-crud-app` run `npm start`
