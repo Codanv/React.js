@@ -95,3 +95,14 @@ Git repo directory: `mern-crud-app`
 - from  `client/` directory run `npm install`
 - from  `mern-crud-app` (root) directory run `npm install`
 - lastly, from `mern-crud-app` run `npm start`
+
+# Part 8
+Sun 27 Aug 2019 
+
+[https://youtu.be/Vps8fLut9ZY]
+
+Git repo directory: `routing-part1`
+
+- Routing Part 1
+- `react-router-dom` module
+- `BrowserRouter`, `Route`, `Switch`, `Link` and `Redirect` components
