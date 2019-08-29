@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  background-color: black;
+  padding: 10px;
+}
+
+nav li {
+  display: inline-block;
+  width: 25%;
+  text-align: center;
+  text-decoration: none;
+}
+
+.anchor {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+h2 {
+  color: grey;
+  margin: 20px;
+}
+
+p {
+  margin: 20px;
+}
