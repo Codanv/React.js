@@ -129,3 +129,14 @@ Git repo directory: `routing-part2`
 - `react-router-dom` module
 - `BrowserRouter`, `Route`, `Switch` & `Link` components
 - A simple page with navigation
+
+# Part 10
+
+Sat 31 Aug 2019
+
+[https://youtu.be/syUjqb4Gsvg]
+
+Git repo directory: `react-context`
+
+- React Context
+- An example demonstration
