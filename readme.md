@@ -151,3 +151,14 @@ Git repo directory: `react-refs`
 
 - React Refs
 - An example demonstration
+
+# Part 12
+
+Mon 3 Sep 2019
+
+[https://youtu.be/3aQN0do1Fj4]
+
+Git repo directory: `state-hook`
+
+- useState hook
+- comparitive study of state in class component and function component
