@@ -162,3 +162,14 @@ Git repo directory: `state-hook`
 
 - useState hook
 - comparitive study of state in class component and function component
+
+# Part 13
+
+Mon 4 Sep 2019
+
+[https://youtu.be/T0SlCaP1FEU]
+
+Git repo directory: `useeffect-hook`
+
+- useEffect hook
+- comparitive study of side effects(component life cycle methods) in class component and function component
