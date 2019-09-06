@@ -1,0 +1,27 @@
+.app1,
+.app2,
+.app3,
+.app4 {
+  margin: 0 auto;
+  padding: 10px;
+  text-align: center;
+  width: 200px;
+  float: left;
+  margin: 10px;
+  margin-top: 10px;
+  border-radius: 10px;
+  box-shadow: 8px 8px 10px grey;
+}
+
+.app1 {
+  background-color: lightgrey;
+}
+.app2 {
+  background-color: lightblue;
+}
+.app3 {
+  background-color: lightcoral;
+}
+.app4 {
+  background-color: lightcyan;
+}

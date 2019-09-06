@@ -154,7 +154,7 @@ Git repo directory: `react-refs`
 
 # Part 12
 
-Mon 3 Sep 2019
+Tue 3 Sep 2019
 
 [https://youtu.be/3aQN0do1Fj4]
 
@@ -165,7 +165,7 @@ Git repo directory: `state-hook`
 
 # Part 13
 
-Mon 4 Sep 2019
+Wed 4 Sep 2019
 
 [https://youtu.be/T0SlCaP1FEU]
 
@@ -173,3 +173,14 @@ Git repo directory: `useeffect-hook`
 
 - useEffect hook
 - comparitive study of side effects(component life cycle methods) in class component and function component
+
+# Part 14
+
+Fri 6 Sep 2019
+
+[https://youtu.be/hs1C_ozBWUM]
+
+Git repo directory: `custom-hook`
+
+- custom hook
+- sharing of logics between components
