@@ -1,0 +1,35 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.app {
+  margin: 0 auto;
+  margin-top: 50px;
+  width: 300px;
+  background-color: lightblue;
+  font-family: sans-serif;
+  padding: 10px;
+}
+
+ul li {
+  list-style-type: none;
+  padding: 4px;
+  background-color: antiquewhite;
+  margin-bottom: 4px;
+  text-transform: capitalize;
+}
+
+ul li span {
+  float: right;
+  cursor: pointer;
+}
+
+ul li span:hover {
+  color: red;
+}
+
+form {
+  margin-top: 10px;
+}

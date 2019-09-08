@@ -184,3 +184,14 @@ Git repo directory: `custom-hook`
 
 - custom hook
 - sharing of logics between components
+
+# Part 15
+
+Fri 8 Sep 2019
+
+[https://youtu.be/qRWqtMobAAE]
+
+Git repo directory: `basic-todo-app`
+
+- A basic todo list app
+- sharing of data & logics between components
