@@ -187,11 +187,22 @@ Git repo directory: `custom-hook`
 
 # Part 15
 
-Fri 8 Sep 2019
+Sun 8 Sep 2019
 
 [https://youtu.be/qRWqtMobAAE]
 
 Git repo directory: `basic-todo-app`
 
 - A basic todo list app
-- sharing of data & logics between components
+- Sharing of data & logics between components
+
+# Part 16
+
+Mon 9 Sep 2019
+
+[https://youtu.be/r8TZaL9fnFk]
+
+Git repo directory: `use-context-hook`
+
+- useContext hook
+- Sharing of data or logic between components
