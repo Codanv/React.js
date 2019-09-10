@@ -206,3 +206,14 @@ Git repo directory: `use-context-hook`
 
 - useContext hook
 - Sharing of data or logic between components
+
+# Part 17
+
+Tue 10 Sep 2019
+
+[https://youtu.be/0ebEgiU2sBg]
+
+Git repo directory: `use-reducer-hook`
+
+- useReducer hook
+- To manage complex state
