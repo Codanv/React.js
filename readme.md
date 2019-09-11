@@ -217,3 +217,14 @@ Git repo directory: `use-reducer-hook`
 
 - useReducer hook
 - To manage complex state
+
+# Part 18
+
+Tue 11 Sep 2019
+
+[https://youtu.be/tETz-Zkjf3g]
+
+Git repo directory: `todo-use-reducer-ref`
+
+- Todo list app
+- useReducer, useRef & useEffect hooks
