@@ -220,7 +220,7 @@ Git repo directory: `use-reducer-hook`
 
 # Part 18
 
-Tue 11 Sep 2019
+Wed 11 Sep 2019
 
 [https://youtu.be/tETz-Zkjf3g]
 
@@ -228,3 +228,14 @@ Git repo directory: `todo-use-reducer-ref`
 
 - Todo list app
 - useReducer, useRef & useEffect hooks
+
+# Part 19
+
+Thu 12 Sep 2019
+
+[https://youtu.be/2WE7Qa3aeww]
+
+Git repo directory: `use-memo`
+
+- memoization
+- useMemo
