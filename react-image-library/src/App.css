@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.app {
+  font-family: sans-serif;
+  color: orange;
+  background-color: rgb(20, 19, 19);
+}
+
+header {
+  padding: 5vh;
+}
+
+.library {
+  display: grid;
+  grid-template-columns: repeat(5, 20vw);
+  grid-auto-rows: 24vh;
+  grid-gap: 0.5em;
+}
+
+img {
+  width: 100%;
+  height: 20vh;
+}
+
+a {
+  color: orange;
+  text-decoration: none;
+}
