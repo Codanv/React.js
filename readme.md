@@ -268,3 +268,13 @@ Git repo directory: `react-image-library`
   - from `react-image-library` directory
     - `npm install`
     - `npm start`
+
+# Part 22
+
+Sun 15 Sep 2019
+
+[https://youtu.be/99qNcbh018U]
+
+Git repo directory: `hooks-revision`
+
+- Revision - React Hooks
