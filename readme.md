@@ -278,3 +278,14 @@ Sun 15 Sep 2019
 Git repo directory: `hooks-revision`
 
 - Revision - React Hooks
+
+# React React-Redux
+
+Tue 17 Sep 2019
+
+[https://youtu.be/gZMzwltieo8]
+
+Git repo directory: `learning-redux`
+
+- Redux
+- React-Redux
