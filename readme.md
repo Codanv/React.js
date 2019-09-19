@@ -289,3 +289,13 @@ Git repo directory: `learning-redux`
 
 - Redux
 - React-Redux
+
+# Basic Website Template
+
+Thu 19 Sep 2019
+
+[https://youtu.be/NVq9DJEtXlM]
+
+Git repo directory: `basic-website`
+
+- A basic website template
